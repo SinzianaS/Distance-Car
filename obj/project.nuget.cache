@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Ar9rtp0hltkNiXxa+J9WWwC+rXB6T/9zua1/eVxdVzVpbhcI3J3AiL1Tef+RroKUII8vIR/RXIOxyRN6b39vw==",
+  "success": true,
+  "projectFilePath": "/Users/sinzi/Projects/distanceCar/distanceCar/distanceCar.csproj",
+  "expectedPackageFiles": [
+    "/Users/sinzi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/sinzi/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.24/microsoft.netcore.app.host.osx-x64.3.1.24.nupkg.sha512",
+    "/Users/sinzi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

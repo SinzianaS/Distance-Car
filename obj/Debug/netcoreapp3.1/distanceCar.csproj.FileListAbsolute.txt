@@ -1,0 +1,14 @@
+/Users/sinzi/Projects/distanceCar/distanceCar/obj/Debug/netcoreapp3.1/distanceCar.csproj.AssemblyReference.cache
+/Users/sinzi/Projects/distanceCar/distanceCar/obj/Debug/netcoreapp3.1/distanceCar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sinzi/Projects/distanceCar/distanceCar/obj/Debug/netcoreapp3.1/distanceCar.AssemblyInfoInputs.cache
+/Users/sinzi/Projects/distanceCar/distanceCar/obj/Debug/netcoreapp3.1/distanceCar.AssemblyInfo.cs
+/Users/sinzi/Projects/distanceCar/distanceCar/obj/Debug/netcoreapp3.1/distanceCar.csproj.CoreCompileInputs.cache
+/Users/sinzi/Projects/distanceCar/distanceCar/bin/Debug/netcoreapp3.1/distanceCar
+/Users/sinzi/Projects/distanceCar/distanceCar/bin/Debug/netcoreapp3.1/distanceCar.deps.json
+/Users/sinzi/Projects/distanceCar/distanceCar/bin/Debug/netcoreapp3.1/distanceCar.runtimeconfig.json
+/Users/sinzi/Projects/distanceCar/distanceCar/bin/Debug/netcoreapp3.1/distanceCar.runtimeconfig.dev.json
+/Users/sinzi/Projects/distanceCar/distanceCar/bin/Debug/netcoreapp3.1/distanceCar.dll
+/Users/sinzi/Projects/distanceCar/distanceCar/bin/Debug/netcoreapp3.1/distanceCar.pdb
+/Users/sinzi/Projects/distanceCar/distanceCar/obj/Debug/netcoreapp3.1/distanceCar.dll
+/Users/sinzi/Projects/distanceCar/distanceCar/obj/Debug/netcoreapp3.1/distanceCar.pdb
+/Users/sinzi/Projects/distanceCar/distanceCar/obj/Debug/netcoreapp3.1/distanceCar.genruntimeconfig.cache
